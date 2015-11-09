@@ -1,35 +1,69 @@
-# Jekyll configuration
+### Site info:
+title: 清热解读
+tagline: Hello and Welcome to Qingre.com
+author: Kirk Young
+email: afanty@gmail.com
+description: "Qingre.com is a Jekyll blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "qingre, 清热, 清热解读"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://qingre.com/blog" # the base hostname & protocol for your site
+locale: zh_CN
 
-name: Blue Horse
-description: Hello and Welcome to Blue Horse
+### Personal info and site tools info:
+twitter_username: foous
+github_username:  foous
+disqus_shortname: foous
+favicon:     "/images/favicon.ico"
+aboutme: Hi, this is Kirk Young. # these are shown on aboutme-sidebar.
+aboutme_photo: https://i.imgur.com/h4EcccW.jpg # your photo.
 
-# url is currently only used only for the RSS feed in feed.xml
-url: http://qingre.com
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: /blog
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "cn" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
-# This can be '' to hide the Github nav button
-github: 'foous/blog'
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+    cn:
+      Aboutme: "关于我"
+      Archives: "存档"
+      Blogroll: "链接"        
+      Categories: "分类目录"    
+      Copyright_Notice: "版权声明"
+      Recent_Posts: "近期文章"
+      Tags: "标签" 
+      Previous: "前一页"
+      Next: "后一页"
+      PostedInCategories: "目录:"   
+      Taggedwith: "| 标签:"
+      PostDate: "| 发表时间: "
 
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
 
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
-disqus: ''
-comments: true
+### your Blogroll info, only name can shown on the page.
 
-permalink: /:year/:month/:title
-paginate: 3
+Blogroll:
+    - name: Freshman21
+      href: http://yulijia.net/freshman21
+      title: Another Jekyll blog theme
+    - name: author's website
+      href: http://yulijia.net/
+      title: Lijia Yu's website
 
+
+### Build settings
+markdown: kramdown
 highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-exclude: ['README.md', 'LICENSE']
+paginate: 5
