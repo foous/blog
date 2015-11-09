@@ -321,9 +321,9 @@ cite{
   text-decoration: underline;
 }
 
-acronym abbr span.caps{
+acronym,abbr,span.caps {
 	font-size: 11px;
 }
-acronym abbr{
+acronym,abbr {
 	cursor: help;
 	border:none;
