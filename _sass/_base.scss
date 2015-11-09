@@ -293,7 +293,7 @@ table tr {
 table tr:nth-child(2n) { background-color: #f8f8f8; }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 0px solid #cccccc;
   margin: 0;
   padding: 3px 6px;
 }
@@ -313,7 +313,7 @@ table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 hr{
   margin-bottom: 30px;
   border: 0;
-  border-bottom: 1px dotted #ccc;
+  border-bottom: 0px dotted #ccc;
 }
 
 cite{ 
