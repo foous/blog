@@ -364,3 +364,32 @@ a.top_menu {
 	cursor:hand;
 	font-weight:bold;
 	}
+	
+post-title {
+	margin: 0;
+	color:#CC0000;
+	}
+
+post-title a {
+	text-decoration: none;
+	color:#CC0000;
+	}
+
+post-content a {
+	text-decoration: none;
+	border-bottom: 1px dotted #CC0000;
+	}
+
+post-content a:hover {
+	text-decoration: none;
+	border-bottom: 1px dashed #CC0000;
+	}
+
+post-content {
+	margin-bottom:-10px;
+	}
+
+.post {
+	margin-top:18px;
+	margin-bottom:18px;
+	}
