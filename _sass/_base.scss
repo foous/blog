@@ -320,3 +320,10 @@ cite{
   font-style: italic;
   text-decoration: underline;
 }
+
+acronym abbr span.caps{
+	font-size: 11px;
+}
+acronym abbr{
+	cursor: help;
+	border:none;
