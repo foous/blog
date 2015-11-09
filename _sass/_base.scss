@@ -281,10 +281,11 @@ pre {
 table { 
   padding: 0;
   border-collapse: collapse; 
+  border:none;
   font-size: $small-font-size;
 }
 table tr {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #fff;
   background-color: white;
   margin: 0;
   padding: 0;
@@ -297,7 +298,7 @@ table tr th {
   padding: 3px 6px;
 }
 table tr td {
-  border: 1px solid #cccccc;
+  border: 1px solid #fff;
   margin: 0;
   padding: 3px 6px;
 }
