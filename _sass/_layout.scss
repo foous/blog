@@ -165,7 +165,7 @@
   	font-family: Verdana, Arial, Helvetica, sans-serif;
 	margin: 15px 0 2px 0;
 	padding-bottom: 2px;
-	color:#CC0000;
+	color:#000000;
 }
 
 
@@ -188,7 +188,7 @@
   	font-family: Verdana, Arial, Helvetica, sans-serif;
 	margin: 15px 0 2px 0;
 	padding-bottom: 2px;
-	color:#CC0000;
+	color:#000000;
   @include media-query($on-laptop) {
     font-size: 25px;
   }
