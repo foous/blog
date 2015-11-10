@@ -186,7 +186,12 @@
 	color:#CC0000;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 25px;
+	  font-weight:bold;
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 15px 0 2px 0;
+	padding-bottom: 2px;
+	color:#CC0000;
   }
 }
 
