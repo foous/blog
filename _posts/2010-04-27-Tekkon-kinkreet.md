@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "天使的翅膀"
-date: 2010-04-27 12:18:00 -0700 
+date: 2010-04-27 12:18:00
+categories: 音色行摄 
 ---
 
 > [《恶童》影评](http://movie.douban.com/subject/1848925/)  

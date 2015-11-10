@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "对抗那逃不脱的寂寞"
-date: 2010-09-11 12:18:00 -0700 
+date: 2010-09-11 12:18:00
+categories: 音色行摄 
 ---
 
 > [《回忆积木小屋》](http://movie.douban.com/subject/3560787/)影评

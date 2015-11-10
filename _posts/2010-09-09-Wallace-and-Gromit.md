@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "西西弗斯与技术悖论"
-date: 2010-05-13 12:18:00 -0700 
+date: 2010-05-13 12:18:00
+categories: 音色行摄 
 ---
 
 > [《超级无敌掌门狗：人兔的诅咒》影评](http://movie.douban.com/subject/1419901/)  

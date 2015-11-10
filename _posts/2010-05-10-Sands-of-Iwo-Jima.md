@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "无意义的战争和死亡"
-date: 2010-05-10 12:18:00 -0700 
+date: 2010-05-10 12:18:00
+categories: 音色行摄 
 ---
 
 > [《硫磺岛家书》影评](http://movie.douban.com/subject/1299043/)  

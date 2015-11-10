@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "不过是娱乐"
-date: 2010-05-01 12:18:00 -0700 
+date: 2010-05-01 12:18:00
+categories: 音色行摄 
 ---
 
 > [《三国》影评](http://movie.douban.com/subject/3237723/)  

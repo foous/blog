@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "在刺骨的温柔中永生"
-date: 2010-10-28 17:56:00 -0700 
+date: 2010-10-28 17:56:00
+categories: 音色行摄 
 ---
 
 > [《吸血鬼日记》](http://movie.douban.com/subject/3646523/)剧评

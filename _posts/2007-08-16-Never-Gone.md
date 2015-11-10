@@ -2,7 +2,7 @@
 layout: post
 title: "《不曾远离》虚拟影评"
 date: 2007-08-16 06:35:30
-categories: 不过故事 
+categories: 不过游戏 
 ---
 
 	注：本片并不存在，本文纯属娱乐，文字游戏，不必当真。

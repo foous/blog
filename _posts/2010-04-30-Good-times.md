@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "三个巧合一台戏"
-date: 2010-04-30 12:18:00 -0700 
+date: 2010-04-30 12:18:00
+categories: 音色行摄 
 ---
 
 > [《媳妇的美好时代》影评](http://movie.douban.com/subject/4172516/)  

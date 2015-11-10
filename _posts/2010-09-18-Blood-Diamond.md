@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "第二手的罪恶"
-date: 2010-09-18 12:18:00 -0700 
+date: 2010-09-18 12:18:00
+categories: 音色行摄 
 ---
 
 > [《血钻》影评](http://movie.douban.com/subject/1428175/)  

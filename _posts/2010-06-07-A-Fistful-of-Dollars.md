@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "不羁英雄梦"
-date: 2010-06-07 12:18:00 -0700 
+date: 2010-06-07 12:18:00
+categories: 音色行摄 
 ---
 
 > [《荒野大镖客》影评](http://movie.douban.com/subject/1302522/)  

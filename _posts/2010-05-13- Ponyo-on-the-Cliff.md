@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "人与自然的恋爱"
-date: 2010-05-13 12:18:00 -0700 
+date: 2010-05-13 12:18:00
+categories: 音色行摄 
 ---
 
 > [《悬崖上的金鱼姬》影评](http://movie.douban.com/subject/1959877/)  

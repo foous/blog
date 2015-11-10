@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "走不出的命运河"
-date: 2010-09-13 15:27:00 -0700 
+date: 2010-09-13 15:27:00
+categories: 音色行摄 
 ---
 
 > [《神秘河》](http://movie.douban.com/subject/1307748/)影评

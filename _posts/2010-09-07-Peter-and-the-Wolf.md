@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "对自由和生命的尊重"
-date: 2010-05-13 12:18:00 -0700 
+date: 2010-05-13 12:18:00
+categories: 音色行摄 
 ---
 
 > [《彼德与狼》影评](http://movie.douban.com/subject/2038174/)  
