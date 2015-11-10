@@ -216,10 +216,10 @@
   p { padding:$spacing-unit/5 0; } 
   //margin-bottom: $spacing-unit;
   h1 { 
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	margin: 15px 0 2px 0;
-	padding-bottom: 2px;
-	color:#CC0000;
+    font-size: 20px;
+    line-height:1em;
+    @include media-query($on-laptop){
+      font-size: 18px;
     }
 
   }
