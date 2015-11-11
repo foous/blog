@@ -9,7 +9,7 @@ categories: 网络相关
 
 
 
-[`苏葵·域名列表`](http://sukui.com)     
+[`苏葵·域名列表`](http://sukui.com "苏葵·域名列表")     
   
 ### 双拼短米类   
 sman.com 斯曼、SMAN、超男、超级男人  
