@@ -5,29 +5,32 @@ date: 2015-11-11 11:05:00
 categories: 网络相关
 ---
   
-![](https://i.imgur.com/QmkCUMF.jpg)
+![](https://i.imgur.com/QmkCUMF.jpg)  
+
+
+
 > [苏葵·域名列表](http://sukui.com)     
   
 ### 双拼短米类   
-1. sman.com 斯曼、SMAN、超男、超级男人  
-2. colv.com 酷旅、酷驴、酷威  
-3. yibiu.com YIBIU 0.8K  
-4. qingre.com 清热 1w  
-5. miaokui.com 妙葵 5K  
-6. leitie.com 雷贴 3W  
-7. uele.com UELE、优乐   
-8. ffip.com FFIP  
-9. qiaz.com 恰兹  
-10. pianchang.com 片场（已出售）  
-11. douman.com 豆漫（已出售）  
+sman.com 斯曼、SMAN、超男、超级男人  
+colv.com 酷旅、酷驴、酷威  
+yibiu.com YIBIU 0.8K  
+qingre.com 清热 2w  
+miaokui.com 妙葵 5K  
+leitie.com 雷贴 3W  
+uele.com UELE、优乐   
+ffip.com FFIP  
+qiaz.com 恰兹  
+pianchang.com 片场（已出售）  
+douman.com 豆漫（已出售）  
 
 ----------
   
 ### 智能类  
-1. jiqimiao.com 机器喵，智能硬件  
-2. dazhiju.com 大智居，智能硬件类域名  
-3. zhiwuyu.com 智物语，智能硬件类域名  
-4. zhiyoulu.com 职友录 智友录  
+jiqimiao.com 机器喵，智能硬件  
+dazhiju.com 大智居，智能硬件类域名  
+zhiwuyu.com 智物语，智能硬件类域名  
+zhiyoulu.com 职友录 智友录  
 
 ----------
   
