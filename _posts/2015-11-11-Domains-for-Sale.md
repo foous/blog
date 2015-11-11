@@ -9,7 +9,7 @@ categories: 网络相关
 
 
 
-> [苏葵·域名列表](http://sukui.com)     
+`[苏葵·域名列表](http://sukui.com)`     
   
 ### 双拼短米类   
 sman.com 斯曼、SMAN、超男、超级男人  
@@ -49,14 +49,14 @@ caihuoche.com 猜火车
 jinxingqu.com 进行曲  
 huangjindang.com 黄金档  
 meimoxiu.com 美模秀  
-moko.tv 美空TV    
+moko.tv 美空TV  
 
 ----------
   
 ### 汽车类 
 checheyou.com 车车友，车车游  
 che.fm 车FM，车广播，汽车调频，汽车之声  
-qiche.fm 汽车FM，汽车广播，汽车调频，汽车之声    
+qiche.fm 汽车FM，汽车广播，汽车调频，汽车之声    
 
 ----------
   
@@ -69,13 +69,13 @@ oulecai.com 欧乐财，欧乐才，欧乐彩
 olecai.com 欧乐财，欧乐才，欧乐彩  
 efaLe.com 易发乐  
 jucaifa.com 聚财发  
-xiashiji.com 下世纪    
+xiashiji.com 下世纪    
 
 ----------
   
 ### 军事运动类   
 junshishe.com 军事社  
-juntv.com  军视，军事视频，参考letv.com    
+juntv.com  军视，军事视频，参考letv.com    
 
 ----------
   
@@ -120,7 +120,7 @@ weekLy.cc 周刊
 nows.cc 诺斯、现在  
 amen.cc 阿门  
 webe.cc  
-liyi.org 礼仪      
+liyi.org 礼仪      
 
 ----------
   
