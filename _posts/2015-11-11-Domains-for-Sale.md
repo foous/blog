@@ -5,13 +5,9 @@ date: 2015-11-11 11:05:00
 categories: 网络相关
 ---
 
-    苏葵·域名列表    
-    SUKUI.COM域名列表    
-    CALL:13521261760    
-    QQ：2593211744(日常在线)    
-    QQ：4323366  
+> [苏葵·域名列表](http://sukui.com)     
   
-——————双拼短米类——————    
+### 双拼短米类   
 1. sman.com 斯曼、SMAN、超男、超级男人  
 2. colv.com 酷旅、酷驴、酷威  
 3. yibiu.com YIBIU 0.8K  
@@ -22,13 +18,19 @@ categories: 网络相关
 8. ffip.com FFIP  
 9. qiaz.com 恰兹  
 10. pianchang.com 片场（已出售）  
-11. douman.com 豆漫（已出售）    
-——————智能类——————  
+11. douman.com 豆漫（已出售）  
+
+----------
+  
+### 智能类  
 1. jiqimiao.com 机器喵，智能硬件  
 2. dazhiju.com 大智居，智能硬件类域名  
 3. zhiwuyu.com 智物语，智能硬件类域名  
 4. zhiyoulu.com 职友录 智友录  
-——————娱乐文化类——————  
+
+----------
+  
+### 娱乐文化类  
 dayule.com 大娱乐，娱乐产业域名  
 erciyuan.com 二次元，ACNG行业域名  
 wanyule.com 玩娱乐，游戏玩乐娱乐域名  
@@ -44,11 +46,17 @@ jinxingqu.com 进行曲
 huangjindang.com 黄金档  
 meimoxiu.com 美模秀  
 moko.tv 美空TV    
-——————汽车类——————  
+
+----------
+  
+### 汽车类 
 checheyou.com 车车友，车车游  
 che.fm 车FM，车广播，汽车调频，汽车之声  
 qiche.fm 汽车FM，汽车广播，汽车调频，汽车之声    
-——————财经理财类——————  
+
+----------
+  
+### 财经理财类  
 caixiaomi.com/com.cn/cn 财小秘、财小米、财小迷、采小蜜、才小秘、彩小秘  
 baokoudai.com 宝口袋  
 baibaotong.com 百宝通  
@@ -58,10 +66,16 @@ olecai.com 欧乐财，欧乐才，欧乐彩
 efaLe.com 易发乐  
 jucaifa.com 聚财发  
 xiashiji.com 下世纪    
-——————军事运动类——————   
+
+----------
+  
+### 军事运动类   
 junshishe.com 军事社  
 juntv.com  军视，军事视频，参考letv.com    
-——————生活健康电商其他类——————   
+
+----------
+  
+### 生活健康电商其他类   
 haoziwei.com 好滋味  
 miziwei.com 米滋味、蜜滋味  
 huanledao.cn 欢乐岛  
@@ -103,6 +117,10 @@ nows.cc 诺斯、现在
 amen.cc 阿门  
 webe.cc  
 liyi.org 礼仪      
+
+----------
+  
+### 已出售  
 mohe.tv 魔盒（视频、游戏）（已出售）  
 jinri.tv 今日视频（已出售）  
 webe.cc  
