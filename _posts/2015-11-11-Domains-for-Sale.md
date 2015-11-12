@@ -15,7 +15,7 @@ categories: 网络相关
 sman.com 斯曼、SMAN、超男、超级男人  
 colv.com 酷旅、酷驴、酷威  
 yibiu.com YIBIU 0.8K  
-qingre.com 清热 2w  
+qingre.com 清热  
 miaokui.com 妙葵 5K  
 leitie.com 雷贴 3W  
 uele.com UELE、优乐   
