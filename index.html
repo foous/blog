@@ -29,9 +29,10 @@ layout: default
       </p>
     </header>
 
-    <article class="post-content" itemprop="articleBody">
-      {{ post.content }}
-    </article> <hr />
+<article class="post-content" itemprop="articleBody">
+      {{ post.excerpt }}
+      <a href="{{ post.url | relative_url }}">继续阅读 &rarr;</a>
+    </article> <hr/>
     
     {% endfor %}
   
