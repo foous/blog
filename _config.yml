@@ -1,21 +1,21 @@
 ### Site info:
 title: 清热解读
-tagline: Hello and Welcome to Qingre.com
-author: Kirk Young
-email: afanty@gmail.com
-description: "Qingre.com is a Jekyll blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "qingre, 清热, 清热解读"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://qingre.com/blog" # the base hostname & protocol for your site
+tagline: Hello and Welcome to abcask.com
+author: ask
+email: ask#abcask.com
+description: "abcask.com is a Jekyll blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "abcask, 清热, 清热解读"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://abcsak.com/" # the base hostname & protocol for your site
 locale: zh_CN
 
 ### Personal info and site tools info:
-twitter_username: foous
-github_username:  foous
+twitter_username: 
+github_username:  
 disqus_shortname: foous
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Kirk Young. # these are shown on aboutme-sidebar.
-aboutme_photo:     "blog/images/aboutme.jpg" # your photo.
+aboutme: Hi, this is me. # these are shown on aboutme-sidebar.
+aboutme_photo:     "images/aboutme.jpg" # your photo.
 
 
 ### Site setting:
