@@ -13,7 +13,7 @@ locale: zh_CN
 twitter_username: 
 github_username:  
 disqus_shortname: foous
-favicon:     "{{ '/' | relative_url }}/images/favicon.ico"
+favicon: "/images/favicon.ico"
 aboutme: Hi, this is me. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/aboutme.jpg" # your photo.
 
