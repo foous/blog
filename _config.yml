@@ -6,7 +6,7 @@ email: ask#abcask.com
 description: "abcask.com is a Jekyll blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "abcask, 清热, 清热解读"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "{{ '/' | relative_url }}" # the base hostname & protocol for your site
+url: "https://www.abcask.com" # the base hostname & protocol for your site
 locale: zh_CN
 
 ### Personal info and site tools info:
