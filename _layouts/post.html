@@ -8,15 +8,15 @@ layout: default
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <p class="post-meta">
     {{ site.locales[site.default_locale].PostedInCategories }}
-    {% for cat in page.categories %}
-    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>&nbsp;
-    {% endfor %} 
-    {% if page.tags != empty %}
-    {{ site.locales[site.default_locale].Taggedwith }}
-    {% for tag in page.tags %}
-    <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
-    {% endfor %}
-    {% endif %}
+   {% for cat in page.categories %}
+    <a href="{{ '/categories/' | append: '#' | append: cat | relative_url }}">{{ cat }}</a>&nbsp;
+    {% endfor %} 
+    {% if page.tags != empty %}
+    {{ site.locales[site.default_locale].Taggedwith }}
+    {% for tag in page.tags %}
+    <a href="{{ '/tags/' | append: '#' | append: tag | relative_url }}" title="{{ tag }}">{{ tag }} </a>{% unless page.tags.last == tag %}, {% endunless %}
+    {% endfor %}
+    {% endif %}
     <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
     {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%Y年%m月%d日" }}
     </time>
