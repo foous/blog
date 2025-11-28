@@ -54,10 +54,10 @@ locales:
 
 ### your Blogroll info, only name can shown on the page.
 
-Blogroll:
-    - name: Sukui's Domain
-      href: http://sukui.com/
-      title: Sukui's Domain name
+### Blogroll:
+ ###    - name: Sukui's Domain
+ ###      href: http://sukui.com/
+  ###     title: Sukui's Domain name
 
 
 ### Build settings
