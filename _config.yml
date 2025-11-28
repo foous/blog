@@ -13,9 +13,9 @@ locale: zh_CN
 twitter_username: 
 github_username:  
 disqus_shortname: foous
-favicon:     "{{ site.baseurl }}/images/favicon.ico"
+favicon:     "/images/favicon.ico"
 aboutme: Hi, this is me. # these are shown on aboutme-sidebar.
-aboutme_photo:     "{{ site.baseurl }}/images/aboutme.jpg" # your photo.
+aboutme_photo:     "/images/aboutme.jpg" # your photo.
 
 
 ### Site setting:
